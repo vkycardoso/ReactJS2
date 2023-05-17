@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "10 Alitas + Papas",
+    "descripcion": "10 Alitas de pollo frito acompañadas de papas fritas y un dip de salsa a elcción",
+    "precio": 800,
+    "img": "https://borgeswingsba.netlify.app/img/10a.jpg",
+    "stock": 19
+  },
+  {
+    "id": 2,
+    "nombre": "15 Alitas Trio + Papas",
+    "descripcion": "15 Alitas de pollo frito acompañadas de papas fritas y tres dips de salsa a elcción",
+    "precio": 800,
+    "img": "https://borgeswingsba.netlify.app/img/20a.jpg",
+    "stock": 46
+  },
+  {
+    "id": 3,
+    "nombre": "20 Alitas + Papas",
+    "descripcion": "20 Alitas de pollo frito acompañadas de papas fritas y un dip de salsa a elcción",
+    "precio": 800,
+    "img": "https://borgeswingsba.netlify.app/img/15a.jpeg",
+    "stock": 9
+  },
+  {
+    "id": 4,
+    "nombre": "8 Tenders + Papas",
+    "descripcion": "8 Tenders de pollo frito acompañadas de papas fritas y un dip de salsa a elcción",
+    "precio": 880,
+    "img": "https://borgeswingsba.netlify.app/img/tenders.jpg",
+    "stock": 12
+  },
+  {
+    "id": 5,
+    "nombre": "Pulled Pork Sandwich + Papas",
+    "descripcion": "Sandwich de carne de cerdo en hebras estilo sureño acompañado de papas fritas",
+    "precio": 1200,
+    "img": "https://borgeswingsba.netlify.app/img/pulled.jpeg",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "nombre": "Papas Poderosas",
+    "descripcion": "Papas fritas con topping a elección",
+    "precio": 700,
+    "img": "https://borgeswingsba.netlify.app/img/poderosas.jpeg",
+    "stock": 18
+  },
+  {
+    "id": 7,
+    "nombre": "Fiesta Borges",
+    "descripcion": "36 Alitas (Salsas a elección), 8 tenders acompañado de papas fritas con cheddar, verdeo y panceta",
+    "precio": 2200,
+    "img": "https://borgeswingsba.netlify.app/img/fiestaborges.jpeg",
+    "stock": 10
+  } 
+]
